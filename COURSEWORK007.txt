@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+     <meta charset="UTF-8">
+     <title>My First PAage</title>
+</head>
+<body>
+
+<header>
+    <!-- header Information Goes in Here -->
+
+    <nav>
+        <!-- Navigation Goes in here -->
+        </nav>
+
+</header>
+
+<main>
+    <!-- Main Information Goes in Here -->
+    <SECTION>
+       <!-- Section Information Goes in Here -->
+       <!-- Section Information Goes in Here -->
+    </Section>
+
+</main>
+
+<footer>
+     <!--FOOTER Information Goes in Here -->
+     
