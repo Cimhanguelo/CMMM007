@@ -22,7 +22,7 @@
         <div id="searchbox">
              <form>
                  <p>Search</p>
-                 <input type="text" name=searchfield">
+                 <input type="text" name="searchfield">
                  <input type=submit" value="Go">
              </form>
         </div>
@@ -36,11 +36,14 @@
             </ul>
         </nav>    
 
+        </header>
+
+
     <main>
         <section>
           <h2>Search our courses</h2>
             <form>
-                <input type="text" name="keywordbox" value=Enter Keyword">
+                <input type="text" name="keywordbox" value="Enter Keyword">
                 <select>
                     <option value="compsci">Computer Science</option>
                     <option value="digmed">Digital Media</option>
@@ -58,7 +61,8 @@
         </section>
 
         <section>
-            <img src="advertbanner .png"alt="Top UK University for Gruduate EMPLOYMENT - HESA Desintation of UK Leavers Survey 2013/14. Published by HESA, August 2015">
+            <img src="advertbanner.png" alt="Top UK University for Graduate Employment -
+ HESA Desintation of UK Leavers Survey 2013/14. Published by HESA, August 2015">
         </section>
 
         <section>
@@ -67,6 +71,12 @@
             <h3>Postgraduate Open Evening</h3>
             <img src="newsarticle1.png" alt="Postgraduate students talking">
             <p>Register to attend...</p>
+        </article>
+
+        <article>
+        <h3>Visit Us</h3>
+        <img src="newsarticle2.png" alt=Sir Ian Wood Building">
+        <p>Your chance to Visit...</p>
         </article>
 
 
@@ -82,7 +92,7 @@
     <footer>
         <h2>Connect with Us</h2>
         <ul>
-            <li><a href="http://www.facebook.com"><img src="facebook logo.png"
+            <li><a href="http://www.facebook.com"><img src="facebooklogo.png"
 alt="Facebook"></a><li>
             <li><a href="http://www.twitter.com"><img src="twitterlogo.png" alt="Twitter"></
             <li><a href="http://www.youtube.com"><img src+"youtubelogo.png" alt="Youtube"></
@@ -90,6 +100,7 @@ a></li>
             <li>...</li>
         </ul>
     </footer>
+
 
     </body>
     </html>
