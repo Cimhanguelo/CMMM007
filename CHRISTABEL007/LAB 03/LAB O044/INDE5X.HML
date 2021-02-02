@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+     <meta charset="UTF-8"
+     <title>Title</title>
+     <link rel="stylesheet"
+href="unsemantic-grid-responsive-tablet.css">
+</head>
+<body>
+
+<main>
+     <section class="container" id="cont1">
+       <h2>Section 1</h2>
+       <p>Lorem Ipsum...</p>
+     </section>
+
+     <section class="container" id="cont2">
+       <h2>Section 2</h2>
+       <p>Lorem Ipsum...</p>
+     </section>
+
+     <section class="container" id="cont2">
+       <h2>Section 2</h2>
+       <p>Lorem Ipsum...</p>
+     </section>
+
+</main>
+
+</body>
+<html>
